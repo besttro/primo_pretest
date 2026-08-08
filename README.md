@@ -13,7 +13,7 @@
 เปิด Terminal และรันคำสั่งเพื่อดาวน์โหลดโค้ดลงเครื่อง จากนั้นย้ายเข้าไปในโฟลเดอร์โปรเจกต์:
 ```bash
 git clone <URL_ของ_Repository>
-cd ts-merge-project
+cd primo_pretest
 
 ```
 
